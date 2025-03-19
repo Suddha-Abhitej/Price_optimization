@@ -47,7 +47,7 @@ The project demonstrates the potential of dynamic pricing to increase sales reve
 
 ## Usage
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone <https://github.com/Suddha-Abhitej/Price_optimization>`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `jupyter notebook Competitive_Pricing_Analysis.ipynb`
 
